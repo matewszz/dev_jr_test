@@ -1,0 +1,2 @@
+Postman: https://documenter.getpostman.com/view/33852547/2sAYkKGHQd
+FastAPI local: http://127.0.0.1:8000/docs#/
